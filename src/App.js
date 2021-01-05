@@ -3,6 +3,7 @@ import CardList from './components/CardList';
 import './App.css';
 import './components/card-list.css';
 import SearchBox from './components/SearchBox';
+import Test from './components/Test';
 
 function App() {
 	const [countries, setCountries] = useState([]);
@@ -24,6 +25,7 @@ function App() {
 	return (
 		<div className="App">
 			<h1>Searc for Country</h1>
+			<Test />
 			<SearchBox
 				placeholder="Search..."
 				handleInput={(e) => {

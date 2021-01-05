@@ -35,7 +35,15 @@ h1 {
     color: #fff !important;
 }
 
+@media screen and (max-width: 576px) {
+    .card-list {
+        grid-template-columns: 1fr;
+    }
+}
+
 .country h5 {
-    font-size: 30px;
     margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: 500;
+    white-space: normal;
 }
