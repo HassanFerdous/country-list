@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https//HassanFerdous/github.io/country-list/static/css/main.02771c63.chunk.css",
+    "main.js": "/https//HassanFerdous/github.io/country-list/static/js/main.dc8ff182.chunk.js",
+    "main.js.map": "/https//HassanFerdous/github.io/country-list/static/js/main.dc8ff182.chunk.js.map",
+    "runtime-main.js": "/https//HassanFerdous/github.io/country-list/static/js/runtime-main.22bf3509.js",
+    "runtime-main.js.map": "/https//HassanFerdous/github.io/country-list/static/js/runtime-main.22bf3509.js.map",
+    "static/js/2.76f4bab7.chunk.js": "/https//HassanFerdous/github.io/country-list/static/js/2.76f4bab7.chunk.js",
+    "static/js/2.76f4bab7.chunk.js.map": "/https//HassanFerdous/github.io/country-list/static/js/2.76f4bab7.chunk.js.map",
+    "index.html": "/https//HassanFerdous/github.io/country-list/index.html",
+    "static/css/main.02771c63.chunk.css.map": "/https//HassanFerdous/github.io/country-list/static/css/main.02771c63.chunk.css.map",
+    "static/js/2.76f4bab7.chunk.js.LICENSE.txt": "/https//HassanFerdous/github.io/country-list/static/js/2.76f4bab7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22bf3509.js",
+    "static/js/2.76f4bab7.chunk.js",
+    "static/css/main.02771c63.chunk.css",
+    "static/js/main.dc8ff182.chunk.js"
+  ]
+}
